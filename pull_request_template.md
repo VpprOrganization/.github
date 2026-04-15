@@ -30,21 +30,6 @@
 
 ---
 
-## ⚠️ Impacto
-- [ ] Baixo (isolado, sem efeito colateral)
-- [ ] Médio (afeta partes do sistema)
-- [ ] Alto (impacta múltiplos fluxos críticos)
-
----
-
-## ⏱️ Urgência
-- [ ] Baixa
-- [ ] Média
-- [ ] Alta
-- [ ] Crítica
-
----
-
 ## 🔥 Risco da alteração
 - [ ] Baixo (mudança simples e previsível)
 - [ ] Médio (exige atenção na validação)
@@ -110,13 +95,3 @@
 - [ ] Requer ordem específica de deploy
 
 ---
-
-## 🔗 Referências ( Opcional )
-- [ ] Issue vinculada
-- [ ] Task externa (Jira, etc)
-- [ ] Nenhuma
-
----
-
-## 📝 Observações adicionais (opcional)
-<!-- Use apenas se necessário -->
